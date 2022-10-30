@@ -4,7 +4,12 @@ This test
 
 ## Getting started
 
-put the file 01_TEST.js in your test folder of the truffle
+you are suppose to have a project Folder with Truffle installed.
+
+
+put the file 01_test01.js in your test folder of your project.
+
+the truffle
 
 in the terminal :  truffle test test/01_TEST.js
 
@@ -23,11 +28,11 @@ Compiling your contracts...
 > Compiling ./node_modules/@openzeppelin/contracts/access/Ownable.sol
 > Compiling ./node_modules/@openzeppelin/contracts/utils/Context.sol
 > Artifacts written to /tmp/test--16562-HWRF6iKTNx26
+> 
 > Compiled successfully using:
    - solc: 0.8.17+commit.8df45f5f.Emscripten.clang
-accounts[0] : 0x10beB490141eB6Cc418A6286837C395CaB2d63C2
-accounts[1] : 0x6e0ED3AD3B16Ca4857C64faedF69bAcC9FacB344
-accounts[2] : 0xd7730aDee3443D0f617894be3b0Aca97E9820e5B
+   - 
+
 
   Contract: Voting
     general
