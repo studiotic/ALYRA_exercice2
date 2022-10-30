@@ -4,12 +4,12 @@ This test
 
 ## Getting started
 
-you are suppose to have a project Folder with Truffle installed.
+you are suppose to have a project folder with Truffle installed.
+The contract : Voting.sol
+The module needed : @openzeppelin/test-helpers + chai library
 
 
 put the file 01_test01.js in your test folder of your project.
-
-the truffle
 
 in the terminal :  truffle test test/01_TEST.js
 
@@ -93,8 +93,7 @@ Compiling your contracts...
         ✓ test 40 : is the proposal 0 genesis could be winner (???)  (193ms, 217197 gas)
         ✓ test 41 : all exaequo but the first is sent (162ms, 331041 gas)
 
-
-  41 passing (31s)
+41 passing (31s)
 
 
 ## GAS
