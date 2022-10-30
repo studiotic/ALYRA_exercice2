@@ -29,18 +29,9 @@ contract("Voting", accounts => {
   const numeroVoter2    = new BN(2) ;
   const numeroVoter3    = new BN(3) ;
 
-  console.log("accounts[0] : " + accounts[0]);
-  console.log("accounts[1] : " + accounts[1]);
-  console.log("accounts[2] : " + accounts[2]);
-
-
-
 
   //defini la variable votingInstance
   let votingInstance;
-
-
-
 
 describe("general", function (){
 
